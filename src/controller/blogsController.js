@@ -271,3 +271,5 @@ module.exports.deleteBlogsById = deleteBlogsById
 module.exports.delBlogs = delBlogs
 module.exports.updateBlogs = updateBlogs
 
+
+
